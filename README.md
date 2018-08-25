@@ -7,6 +7,6 @@
 店铺动态评分`tb_shop_data.py`
 商品页面上的评论词云`tb_comm_cloud.py`
 
-还在继续探索中……
+还在继续探索……
 
 详细说明见 [这篇文章](http://yibeichen.me/2018/08/25/Taobao-Crawler/)吧
