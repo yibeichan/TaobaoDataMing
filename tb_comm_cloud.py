@@ -25,9 +25,6 @@ def save_to_mongo(result):
     except Exception:
         print('存储到MongoDB失败')
         
-
-# df1 = pd.read_json('e-cigar-high.json')
-# df1 = pd.read_json('e-cigar-low.json')
 df1 = pd.read_json('e-cigar-high.json')
 df2 = pd.read_json('e-cigar-low.json')
 df = df1.append(df2)
